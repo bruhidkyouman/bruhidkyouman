@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi please help me idk how to code I want to make a game that will work with real code i am a newbie to coding idk anything but html kinda
 
 <!--
 **bruhidkyouman/bruhidkyouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
